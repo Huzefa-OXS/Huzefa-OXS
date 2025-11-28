@@ -19,7 +19,7 @@ Our mission is to deliver smart, scalable, and future‑ready products for clien
 
 ## 👨‍💻 **About the Founder**
 
-**Huzefa Mohammed** — Software developer & technology consultant.
+**Huzefa Shakir** — Software developer & technology consultant.
 
 He works across:
 
@@ -52,10 +52,10 @@ He works across:
 
 ## 📫 **Contact**
 
-* **Email:** [info@yourcompany.com](mailto:info@yourcompany.com)
-* **Website:** yourcompany.com
+* **Email:** [huzefa.shakir@openxpert.me](mailto:huzefa.shakir@openxpert.me)
+* **Website:** www.openxpertsolutions.com
 * **Location:** United Arab Emirates
 
 ---
 
-### ⭐ *Thank you for visiting our GitHub profile!*
+### ⭐ *Thank you for visiting my GitHub profile!*
