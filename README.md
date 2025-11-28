@@ -1,5 +1,7 @@
 # 👋 Welcome to Huzefa's (OPENEXPERT SOLUTIONS) GitHub Profile
----
+
+![Tanjiro Sword GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FidndxMnRueXZvbnp2eXVsbzQ0Mnc0MDFyNWN3anNvMTFrMDJpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WkeXjFoubG449UdbGh/giphy.gif)
+
 
 ## 🏢 **About Us**
 
